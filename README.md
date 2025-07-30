@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soban Babu Mukiri
 
 🚀 Data Scientist | ML Engineer | AI Systems Builder  
-🎓 Master's in Data Science & AI – IISER Tirupati  
+🎓 Professional Master's in Data Science & AI – IISER Tirupati  
 🔬 Ex-Researcher (Nanotechnology) turned AI Developer
 
 ## 🧠 Skills
